@@ -1,0 +1,19 @@
+---
+title: "Test Document #1"
+format: pptx
+editor: visual
+---
+
+# Introduction
+
+-   Is it possible to answer every question we pose?
+
+-   What is experimental design?
+
+-   When should we start to plan how we are going to analyze our data?
+
+    ``` {.r style="yellow"}
+    lm <- rep(1,4,8)
+    ```
+
+![TidyR Cheatsheet](images/tidyR.png)
